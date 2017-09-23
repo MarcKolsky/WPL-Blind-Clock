@@ -1,0 +1,14 @@
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\bin\Release\WPL_Blind_Clock.exe.config
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\bin\Release\WPL_Blind_Clock.exe
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\bin\Release\WPL_Blind_Clock.pdb
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\MainWindow.baml
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\MainWindow.g.cs
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\App.g.cs
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock_Content.g.cs
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock_MarkupCompile.cache
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.g.resources
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.Properties.Resources.resources
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.csproj.GenerateResource.Cache
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.exe
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.pdb
+C:\C# Projects\WPL_Blind_Clock\WPL_Blind_Clock\obj\Release\WPL_Blind_Clock.csprojResolveAssemblyReference.cache
